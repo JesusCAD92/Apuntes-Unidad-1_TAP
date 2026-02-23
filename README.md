@@ -312,5 +312,20 @@ En primer lugar, la exploración de la Creación de Interfaces nos permitió ent
 En segundo lugar, profundizamos en el paradigma de la Programación Dirigida por Eventos. Este concepto cambió nuestra forma de estructurar el código: dejamos de escribir scripts que se ejecutan de principio a fin para desarrollar sistemas que "escuchan" y reaccionan de forma asíncrona a las acciones del usuario. El manejo de eventos mediante handlers y la manipulación del objeto de evento (e) nos dieron el control total sobre la interactividad, desde una simple suma en una calculadora hasta la sincronización de mensajes en un chat local mediante protocolos de comunicación como PubSub.
 
 Finalmente, el Manejo de Componentes Gráficos de Control nos brindó las herramientas para asegurar la integridad de los datos. No solo aprendimos a renderizar componentes de entrada y salida, sino que integramos lógica de validación (como el uso de expresiones regulares) y gestión de estados para prevenir errores antes de que la información sea procesada por el backend.
+# Bibliografias
+1. ¿Qué es la interfaz de usuario? (s/f). Lenovo.com. Recuperado el 22 de febrero de 2026, de https://www.lenovo.com/mx/es/glosario/que-es-la-interfaz-de-usuario/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopAV_yO2-X5NNB2UV15sSjeszaNqV6FS_Wf4QPJoN50Zsu4Cmk8
+2. YouTube. (s/f). Youtu.Be. Recuperado el 22 de febrero de 2026, de https://youtu.be/MpkTYMzhV0A?si=EIhgzrEN1-eg3Hc2
+
+ 3.   Client challenge. (s/f). Scribd.com. Recuperado el 22 de febrero de 2026, de https://es.scribd.com/presentation/812394937/Clase-Digu
+4. Flet. (n.d.). Button. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/button/
+5. Flet. (n.d.). Row - flet. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/row/
+6. Flet. (n.d.-a). Container. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/container/
+7. Flet. (n.d.-a). Column. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/column/
+8. Flet. (n.d.-c). GridView. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/gridview/
+9. (N.d.). Mozilla.org. Retrieved February 22, 2026, from https://developer.mozilla.org/es/docs/Learn_web_development/Core/Scripting/Events
+10. Casero, A. (2023, July 19). Eventos en los web components: ¿Qué son? KeepCoding Bootcamps. https://keepcoding.io/blog/que-son-los-eventos-en-los-web-components/
+11. - YouTube. (n.d.). Youtu.Be. Retrieved February 22, 2026, from https://youtu.be/XVgA-kMkOdo?si=0DzZQ6QAfLLEBh9f
+12. Flet. (n.d.). Checkbox. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/controls/checkbox/
+13. Flet. (n.d.). PaidAdRequest. Flet.dev. Retrieved February 22, 2026, from https://docs.flet.dev/ads/types/paidadevent/
 
 En resumen, la Unidad I nos ha dotado de una visión integral sobre el desarrollo de aplicaciones. Ahora somos capaces de diseñar, estructurar y programar interfaces que no solo son estéticamente profesionales bajo los estándares de Material Design, sino que son técnicamente robustas, interactivas y capaces de resolver problemas de comunicación y gestión de datos en entornos reales.
